@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+todoList/node_modules/
+todo-backend/node_modules/
+
+# Environment variables
+todoList/.env
+todo-backend/.env
+
+# Build output
+todoList/build/
+todo-backend/dist/
+
+# Logs
+*.log
+
+# Other files to ignore
+.DS_Store
